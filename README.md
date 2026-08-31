@@ -3,7 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&background=243B6B&center=true&vCenter=true&width=500&lines=Hi+I'm+Leanne!;Aspiring+Data+Engineer" />
 </h1>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-243B6B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Lvzxc"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 
 ## 👋 About Me
 Hi, I’m **Alleanna Villan** — focused on **Data Engineering** with a background in **Financial Management**.  
@@ -12,15 +17,6 @@ My career goal is to transition fully into **Data Engineering**, while continuin
 
 🌍 Based in the **Philippines**  
 💡 Driven by curiosity and a learner mindset, I continuously seek new knowledge and skills to grow, adapt, and create meaningful impact through data.
-
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-243B6B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Lvzxc"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
