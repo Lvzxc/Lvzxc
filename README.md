@@ -1,8 +1,8 @@
-<!-- Wavy Gradient Header with Name -->
-<!-- Gradient Capsule with Icons -->
+<!-- Wavy Gradient Header with Subtitle -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=220&section=header&text=Alleanna%20Moira%20Villan%20👩‍💻%0AAspiring%20Data%20Engineer%20📊&fontSize=26&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=220&section=header&text=Alleanna%20Moira%20Villan%0APassionate%20about%20Data%20and%20Meaningful%20Solutions&fontSize=26&fontColor=FFFFFF&animation=fadeIn" />
 </p>
+
 
 
 <!-- Typing Animation Below -->
