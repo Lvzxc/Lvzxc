@@ -1,12 +1,11 @@
-<!-- Animated Typing Header -->
-<!-- Gradient Capsule Background -->
+<!-- Wavy Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=150&section=header&text=&fontSize=28&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=180&section=header&text=&fontSize=28&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation Overlay -->
-<h1 align="center" style="margin-top:-100px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Leanne!;Aspiring+Data+Engineer" />
+<h1 align="center" style="margin-top:-120px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Leanne!;Aspiring+Data+Engineer" />
 </h1>
 
 
