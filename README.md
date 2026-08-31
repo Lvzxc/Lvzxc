@@ -1,7 +1,8 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1E40AF&height=150&section=header&text=Aspiring%20Data%20Engineer&fontSize=28&fontColor=FFFFFF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:2563EB&height=120&section=header&text=Hi%20I'm%20Leanne!&fontSize=30&fontColor=FFFFFF&animation=fadeIn" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-243B6B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
