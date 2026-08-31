@@ -1,6 +1,14 @@
 <!-- Wavy Gradient Header with Subtitle -->
+<!-- Wavy Gradient Header with Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=220&section=header&text=Alleanna%20Moira%20Villan%0AAspiring%20Data%20Engineer%20%7C%20Driven%20by%20Curiosity&fontSize=30&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=200&section=header&text=Alleanna%20Moira%20Villan&fontSize=32&fontColor=FFFFFF&animation=fadeIn" />
+</p>
+
+<!-- Subtitle Below -->
+<p align="center">
+  <span style="font-size:16px; color:#FFFFFF;">
+    Aspiring Data Engineer | Driven by Curiosity
+  </span>
 </p>
 
 
