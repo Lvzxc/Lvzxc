@@ -1,7 +1,12 @@
-<!-- Animated Typing Header -->
+<!-- Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=120&section=header&text=Building%20Meaningful%20Solutions%20with%20Data&fontSize=22&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=120&section=header&text=Hi%20I'm%20Leanne!&fontSize=28&fontColor=FFFFFF&animation=fadeIn" />
 </p>
+
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Engineer;Building+Meaningful+Solutions+with+Data" />
+</h1>
 
 
 <p align="center">
