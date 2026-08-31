@@ -1,7 +1,12 @@
-<!-- Wavy Gradient Header -->
+<!-- Wavy Gradient Header with Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=200&section=header&text=Alleanna%20Moira%20Villan%0AHi%20I'm%20Leanne%20and%20Aspiring%20Data%20Engineer&fontSize=26&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=200&section=header&text=Alleanna%20Moira%20Villan&fontSize=30&fontColor=FFFFFF&animation=fadeIn" />
 </p>
+
+<!-- Typing Animation Below -->
+<h1 align="center" style="margin-top:-40px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Leanne;Aspiring+Data+Engineer" />
+</h1>
 
 
 <p align="center">
