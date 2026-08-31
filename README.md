@@ -83,17 +83,16 @@ Separates valid and unresolved data while preserving reliable records for analys
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-18-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Current_Streak-2_days-green?style=flat-square&logo=firefox" />
-  <img src="https://img.shields.io/badge/Longest_Streak-3_days-orange?style=flat-square&logo=flame" />
+  <img src="https://img.shields.io/badge/Contributions-18-2E3440?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Streak-2_days-4C566A?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Longest_Streak-3_days-5E81AC?style=for-the-badge&logo=flame&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvzxc&theme=blue_navy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvzxc&theme=graywhite" />
 </p>
 
 
