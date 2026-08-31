@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:2563EB&height=120&section=header&text=Hi%20I'm%20Leanne!&fontSize=30&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=120&section=header&text=Building%20Meaningful%20Solutions%20with%20Data&fontSize=22&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
 
