@@ -84,19 +84,12 @@ Separates valid and unresolved data while preserving reliable records for analys
 
 ---
 
-## 📊 GitHub Visuals
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lvzxc&show_icons=true&theme=blue_navy" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvzxc&layout=compact&theme=blue_navy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvzxc&theme=blue_navy" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lvzxc&theme=darkhub&margin-w=15&margin-h=15" />
+  <img src="https://img.shields.io/badge/Total_Contributions-18-243B6B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Streak-2_days-1E40AF?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Longest_Streak-3_days-EC4899?style=for-the-badge&logo=flame&logoColor=white" />
 </p>
 
 ---
