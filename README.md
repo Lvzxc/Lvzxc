@@ -1,7 +1,9 @@
 <!-- Wavy Gradient Header with Name -->
+<!-- Gradient Capsule with Name + Subtitle -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=200&section=header&text=Alleanna%20Moira%20Villan&fontSize=30&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=220&section=header&text=Alleanna%20Moira%20Villan%0AHi%20I'm%20Leanne%20—%20Aspiring%20Data%20Engineer&fontSize=26&fontColor=FFFFFF&animation=fadeIn" />
 </p>
+
 
 <!-- Typing Animation Below -->
 <h1 align="center" style="margin-top:-40px;">
