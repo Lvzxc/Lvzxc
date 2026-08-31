@@ -1,14 +1,17 @@
-
-<!-- Subtitle with Background -->
-<p align="center" style="background: linear-gradient(90deg, #1E3A8A, #3B82F6); padding: 8px 16px; border-radius: 8px; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.4);">
-  <span style="font-size:16px; color:#FFFFFF; font-weight:500;">
+<!-- Header with GitHub Analytics Theme -->
+<p align="center" style="background: linear-gradient(90deg, #1E293B, #334155); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+  <span style="font-size:28px; color:#FFFFFF; font-weight:600;">
+    Alleanna Moira Villan
+  </span>
+  <br />
+  <span style="font-size:16px; color:#9CA3AF; font-weight:400;">
     Aspiring Data Engineer | Driven by Curiosity
   </span>
 </p>
 
 <!-- Typing Animation Below -->
-<h1 align="center" style="margin-top:-20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Leanne" />
+<h1 align="center" style="margin-top:-10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Leanne" />
 </h1>
 
 
