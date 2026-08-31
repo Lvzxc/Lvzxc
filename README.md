@@ -1,21 +1,16 @@
-<!-- Wavy Gradient Header with Subtitle -->
-<!-- Wavy Gradient Header with Name -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=200&section=header&text=Alleanna%20Moira%20Villan&fontSize=32&fontColor=FFFFFF&animation=fadeIn" />
-</p>
 
-<!-- Subtitle Below -->
-<p align="center">
+<!-- Subtitle with Background -->
+<p align="center" style="background: linear-gradient(90deg, #0F172A, #334155); padding: 8px; border-radius: 6px; display: inline-block;">
   <span style="font-size:16px; color:#FFFFFF;">
     Aspiring Data Engineer | Driven by Curiosity
   </span>
 </p>
 
-
 <!-- Typing Animation Below -->
-<h1 align="center" style="margin-top:-40px;">
+<h1 align="center" style="margin-top:-20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Leanne;Aspiring+Data+Engineer" />
 </h1>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-243B6B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
