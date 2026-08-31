@@ -1,7 +1,6 @@
 <!-- Header with GitHub Analytics Theme -->
 <p align="center" style="background: linear-gradient(90deg, #1E293B, #334155); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
   <span style="font-size:28px; color:#FFFFFF; font-weight:600;">
-    Alleanna Moira Villan
   </span>
   <br />
   <span style="font-size:16px; color:#9CA3AF; font-weight:400;">
