@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&background=243B6B&center=true&vCenter=true&width=500&lines=Hi+I'm+Leanne!;Aspiring+Data+Engineer" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1E40AF&height=150&section=header&text=Aspiring%20Data%20Engineer&fontSize=28&fontColor=FFFFFF&animation=twinkling" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-243B6B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
