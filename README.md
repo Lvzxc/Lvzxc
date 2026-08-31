@@ -78,18 +78,7 @@ Includes cleaning, integration, validation, KPI calculations, and Delta Lake MER
   </a>
 </p>
 
----
 
-### 📌 Sari-Sari Store Data Pipeline
-A pipeline focused on data quality: cleaning, validation, deduplication, and integration of sari-sari store transactions.  
-Separates valid and unresolved data while preserving reliable records for analysis.  
-**Technologies:** Databricks · SQL · Data Cleaning · Deduplication · Data Quality  
-
-<p>
-  <a href="https://github.com/Lvzxc/sari-sari-pipeline">
-    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EC4899?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 ## 📊 GitHub Analytics
