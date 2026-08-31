@@ -1,8 +1,13 @@
 <!-- Animated Typing Header -->
+<!-- Gradient Capsule Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=120&section=header&text=&fontSize=28&fontColor=FFFFFF&animation=fadeIn" />
+</p>
+
+<!-- Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&background=0F172A,334155&center=true&vCenter=true&width=500&lines=Hi+I'm+Leanne!;Aspiring+Data+Engineer" />
 </h1>
-
 
 
 <p align="center">
