@@ -1,8 +1,8 @@
 <!-- Wavy Gradient Header with Subtitle -->
-<!-- Wavy Gradient Header with Subtitle -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=220&section=header&text=Alleanna%20Moira%20Villan%0A%F0%9F%94%B1%20Aspiring%20Data%20Engineer%20%7C%20Driven%20by%20Curiosity&fontSize=28&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=220&section=header&text=Alleanna%20Moira%20Villan%0AAspiring%20Data%20Engineer%20%7C%20Driven%20by%20Curiosity&fontSize=30&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" />
 </p>
+
 
 <!-- Typing Animation Below -->
 <h1 align="center" style="margin-top:-40px;">
